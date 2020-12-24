@@ -1,0 +1,7 @@
+{
+  "name": "rajya-osusala",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,12 @@
+.precontent-page {
+  ion-content {
+    --background: #f8f8fa;
+  }
+
+  ion-card {
+    box-shadow: none;
+    box-shadow: 0px 3px 45px 0px rgba(0, 0, 0, 0.16);
+    border-radius: 30px;
+    width: 100% !important;
+  }
+}

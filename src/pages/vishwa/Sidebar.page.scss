@@ -1,0 +1,52 @@
+.side-page {
+  ion-toolbar {
+    --background: #316dd0 !important;
+
+    ion-title {
+      font-weight: bold;
+      font-size: 18px;
+      padding-top: 2px;
+      padding-left: 20px;
+      color: #f8f8fa;
+    }
+  }
+
+  ion-menu {
+    --background: #f8f8fa !important;
+  }
+
+  ion-list {
+    --background: #f8f8fa !important;
+  }
+  ion-item {
+    --background: #f8f8fa !important;
+  }
+
+  ion-content {
+    --background: #f8f8fa !important;
+  }
+
+  ion-card {
+    ion-img {
+      width: 100px;
+      margin: 0 auto;
+    }
+
+    ion-card-title {
+      font-size: 16px;
+      font-weight: bolder;
+    }
+  }
+
+  .my-modal {
+    .modal-wrapper {
+      border-radius: 10px 10px 10px 10px;
+      overflow: hidden;
+      top: 30%;
+      left: 25%;
+      position: absolute;
+      width: 50%;
+      height: 50%;
+    }
+  }
+}
